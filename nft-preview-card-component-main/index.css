@@ -1,0 +1,42 @@
+body{
+  background-color: #0D1A2D;
+}
+
+.card{
+  background-color: #15273F;
+  margin: auto;
+  margin-top: 5rem;
+  width: 15rem;
+  border-radius: 15px;
+}
+
+.img-card{
+  border-radius: 5px;
+}
+
+.card-title{
+  color: #ECF5FC;
+}
+
+.card-text{
+  color: #737f92;
+  font-size: 12px;
+}
+
+.ether{
+  color: #00FFF8;
+  font-weight: 600;
+}
+
+.clock{
+  color: #8BACD9;
+}
+
+/* .attribution{
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a{
+  color: hsl(228, 45%, 44%);
+} */
